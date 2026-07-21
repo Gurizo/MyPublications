@@ -15,11 +15,13 @@ shared. Built for the UW Claude Code workshop, Lesson 2 (2026-07-21).
       1975 geology, 1984 QC report, 1996 avian medicine) via `exclusions.json`;
       dropped preprint/other/report types. 82 works remain.
 - [x] Design decided (see below)
-- [ ] Build `index.html`, review in browser, commit
-- [ ] Refine the look until happy
-- [ ] Push, turn on GitHub Pages, confirm the live URL
-- [ ] Mark this spec complete, commit; copy to `ClaudeLab/todos/completed`
+- [x] Build `index.html`, review in browser, commit
+- [x] Push, turn on GitHub Pages, confirm the live URL:
+      https://gurizo.github.io/MyPublications/ (built + serving 200)
+- [ ] Refine the look (optional — page is live and complete)
 - [ ] (Stretch) Package as a `/publications-page` skill in `ws/.claude/skills`
+
+**Status: DONE.** Live page shipped for the workshop's Lesson 2.
 
 ## Design
 
